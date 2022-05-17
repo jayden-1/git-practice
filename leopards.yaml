@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 cocah: Nicholas
+=======
+cocah: Melissa
+>>>>>>> 4d6d4c4 (Edit Leopards)
 
 members:
 - Linda
